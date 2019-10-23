@@ -1,5 +1,5 @@
 """
-write_db.py 写数据库演示
+write_db.py 写数据库
 """
 
 
